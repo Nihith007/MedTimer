@@ -25,7 +25,7 @@ MedTimer integrates multiple Python modules and features to create a smooth and 
   * Pandas for storing and updating the medicine list and adherence tracking.
   * Datetime to compare the current time with scheduled medicine times and mark doses as taken, upcoming, or missed.
   * Custom logic functions to calculate adherence, update dose statuses, and manage user input.
-  * Turtle graphics to draw a smiley or trophy when adherence is high to motivate users.
+  * Turtle graphics/Matplotlib to draw a smiley or trophy when adherence is high to motivate users, we generally use Matplotlib for Streamlit, as it doesn't accept Turtle graphics.
 All components work together in a simple, accessible layout designed for elderly usability.
 
 **Deployment Instructions**
@@ -42,4 +42,4 @@ All components work together in a simple, accessible layout designed for elderly
 * Step 7 = Once deployed, copy the live link and include it in this README.
 
 **Please click the link below to access my MedTimer app:**
-https://medtimer-4tfh7turyqmmhmehjxtreo.streamlit.app/ 
+* https://medtimer-4tfh7turyqmmhmehjxtreo.streamlit.app/ 
