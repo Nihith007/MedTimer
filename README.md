@@ -44,9 +44,9 @@ All components work together in a simple, accessible layout designed for elderly
 **Please click the link below to access my MedTimer app:**
 * https://medtimer-4tfh7turyqmmhmehjxtreo.streamlit.app/
 
-![Screenshot] (images/Screenshot 2025-12-18 at 16.07.28.png)
-![Screenshot] (images/Screenshot 2025-12-18 at 16.09.02.png)
-![Screenshot] (images/Screenshot 2025-12-18 at 16.09.41.png)
-![Screenshot] (images/Screenshot 2025-12-18 at 16.10.06.png)
-![Screenshot] (images/Screenshot 2025-12-18 at 16.10.43.png)
-![Screenshot] (images/Screenshot 2025-12-18 at 16.11.28.png)
+![Screenshot](images/Screenshot 2025-12-18 at 16.07.28.png)
+![Screenshot](images/Screenshot 2025-12-18 at 16.09.02.png)
+![Screenshot](images/Screenshot 2025-12-18 at 16.09.41.png)
+![Screenshot](images/Screenshot 2025-12-18 at 16.10.06.png)
+![Screenshot](images/Screenshot 2025-12-18 at 16.10.43.png)
+![Screenshot](images/Screenshot 2025-12-18 at 16.11.28.png)
