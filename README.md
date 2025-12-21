@@ -49,7 +49,7 @@ All components work together in a simple, accessible layout designed for elderly
 * Weekly informational updates
 * Reminder system to help users take medications on time
 
-**My python code with turtle graphics is visible in the
+**My Python code with turtle graphics is visible in the file turtleapp.txt**
 
 **Please click the link below to access my MedTimer app:**
 * https://medtimer-4tfh7turyqmmhmehjxtreo.streamlit.app/
