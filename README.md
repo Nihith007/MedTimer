@@ -12,11 +12,11 @@
 
 # School name - Birla Open Minds International School, Kollur
 
-# Summative Assessment 2
+# Summative Assessment 
 
 **Project Overview**
 
-MedTimer is a senior-friendly daily medicine tracking web application built using Python and Streamlit. It allows users to add medicines with scheduled times, view a color-coded daily checklist (Green = Taken, Yellow = Upcoming, Red = Missed), and automatically calculate a weekly adherence score. The app provides motivational tips and Turtle-drawn graphics to make the experience friendly, encouraging, and calming for elderly users. Its design focuses on accessibility, clarity, and real-world usability.
+MedTimer is a senior-friendly daily medicine tracking web application built using Python and Streamlit. It allows users to add medicines with scheduled times, view a color-coded daily checklist (Green = Taken, Yellow = Upcoming, Red = Missed), and automatically calculate a weekly adherence score. The app offers motivational tips and Turtle-drawn graphics to create a friendly, encouraging, and calming experience for elderly users. Its design focuses on accessibility, clarity, and real-world usability.
 
 **Integration Details**
 
